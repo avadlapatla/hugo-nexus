@@ -1,0 +1,3 @@
+[submodule "themes/nexus"]
+	path = themes/nexus
+	url = https://github.com/avadlapatla/nexus-hugo-theme.git
